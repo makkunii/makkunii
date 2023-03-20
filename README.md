@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mmanuel.eugene@gmail.com**
 - 👨‍💻 Check out My [Online Portfolio](https://makkunii.github.io/manuel-portfolio)
-- 📄 Know about my experiences [Check My Resume](https://rb.gy/veglnj)
+- 📄 Know about my experiences [Check My Resume](https://makkunii.github.io/manuel-portfolio/assets/pdf/Manuel-Mark-Eugene-Resume.pdf)
 - ⚡ Fun fact **I love Anime**
 
 <h3 align="left">Connect with me:</h3>
